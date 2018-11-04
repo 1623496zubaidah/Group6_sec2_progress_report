@@ -1,0 +1,131 @@
+body{
+	background-color:  #feb3f5;
+	color:  black;
+  /*  font-size: 87.5%; */
+  font-size: 18px;
+    font-family: Arial 'lucidasans'
+    line-height :1.5;
+    text-align: left;
+}
+a {
+	text-decoration: none;
+}
+a :link, a:visited {
+	color: #888888;
+}
+a :hover , a:active {
+	background-color: #888888;
+	color: #fff;
+}
+.body{
+	margin: 0 auto;
+	width: 100%;
+	clear: both;
+}
+div.footer{
+	background-color: #990099;
+	height:80px;
+	width:1250px;
+	color:white;
+	text-align:center;
+	font-family:verdana;
+	font-size:18px;
+	text-decoration:none;
+	clear:both;
+	display:block;
+	margin: 0% 0% 0% 0.5%;
+	margin-bottom: auto;
+ }
+
+/*.mainhead nav ul {
+	list-style: none;
+	margin: 0 auto;
+}
+.mainhead nav ul li{
+float: left;
+display: inline;
+}
+.mainhead nav a:link, .mainhead nav a:visited {
+color: #fff;
+display: inline-block;
+padding: 10px 25px;
+height: 20px;
+}
+.mainhead nav a:hover, .mainhead nav a:active,
+.mainhead nav .active a:link, .mainhead nav .active a:visited{
+	background-color:#888888 ;
+	text-shadow: none;
+}
+.mainhead nav ul li a {
+	border-radius: 5px;
+    -moz-border-radius: 5px;
+	-webkit-border-radius : 5px;
+}*/
+.main{
+	line-height: 25px;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius : 5px;
+}
+.content{
+	width: 70%;
+	float: left;
+  padding-left: 10px;
+}
+.topcontent{
+	background: #fff;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius : 5px;
+	padding: 3% 5% ;
+	margin-top: 2%;
+	border: 5px;
+}
+.bootoncontent{background: #fff;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius : 5px;
+	padding: 3% 5% ;
+	margin-top: 2%;
+
+}
+.top1-sidar{
+	width: 21%;
+	float: left;
+	background-color: #fff ;
+	border-radius: 5px;
+ -moz-border-radius: 5px;
+	-webkit-border-radius : 5px;
+  margin: 1.5% 0 1% 2%;
+	padding: 1% 2%;
+}
+.top2-sidar{
+	width: 21%;
+	float: left;
+	background-color: #fff ;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius : 5px;
+	margin: 1.5% 0 1% 2%;
+	padding: 1% 2%;
+}
+.top3-sidar{
+	width: 28%;
+	float: left;
+	background-color: #fff ;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius : 5px;
+	margin: 1% 0 1% 2%;
+	padding: 1% 2%;
+}
+.top4-sidar{
+	width: 30%;
+	float: left;
+	background-color: #fff ;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius : 5px;
+	margin: 1% 0 1% 2%;
+	padding: 1% 2%;
+}
